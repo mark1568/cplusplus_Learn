@@ -1,0 +1,5 @@
+﻿  分组.cpp
+C:\Users\86186\Desktop\cccc\员工分组_容器练习\Project1\Project1\分组.cpp(49,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86186\Desktop\cccc\员工分组_容器练习\Project1\Project1\分组.cpp(58,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86186\Desktop\cccc\员工分组_容器练习\Project1\Project1\分组.cpp(67,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\86186\Desktop\cccc\员工分组_容器练习\Project1\x64\Debug\员工分组练习.exe
